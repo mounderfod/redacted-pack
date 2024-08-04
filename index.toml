@@ -25,6 +25,10 @@ file = "defaultconfigs/solcarrot-server.toml"
 hash = "29b3cec305f289aeebe15e894e84b72119548716a3bea4661526764e588fa7b1"
 
 [[files]]
+file = "index.html"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "e43d1e82e75a6b08ff282c5efbd98073ce0e9ab8805770388c69677447278355"
 metafile = true
