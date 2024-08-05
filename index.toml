@@ -29,6 +29,22 @@ file = "index.html"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/HostileNeuralNetworks-1.20.1-5.3.0.jar"
+hash = "66000680ce07b7384db537153d81c4d1f97d3ab9ff0ed743521f733dd61233cd"
+
+[[files]]
+file = "mods/Placebo-1.20.1-8.6.2.jar"
+hash = "1fcacfb17c4f5f3880d99a1bf29c76bc2d6bf6ed6e02ca8051a3b6eee4c99c5a"
+
+[[files]]
+file = "mods/Quark-4.0-458.jar"
+hash = "561bcaa7d298b0a5069da27e4d14ef5d1d8a442fad688bd677629e4f9bb82a38"
+
+[[files]]
+file = "mods/Zeta-1.0-19.jar"
+hash = "580a27bf815ec2553699c2d826db5c5ad7871701a12480171a61e4208fc9d754"
+
+[[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "e43d1e82e75a6b08ff282c5efbd98073ce0e9ab8805770388c69677447278355"
 metafile = true
@@ -753,11 +769,6 @@ hash = "8a8e0f6db0afb5c64f8efb17c1b2e7a937fee57a8fd41f70ca6d74eaee60e822"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
-metafile = true
-
-[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "7d4c7c47b57e2bb89953b397ff09dc40a94d334f440a3bc480806d07a0b046ff"
 metafile = true
@@ -1095,9 +1106,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
-metafile = true
-
-[[files]]
-file = "mods/zeta.pw.toml"
-hash = "911ef1a7f096dc8dd411f67b6fbfec20fe57c6013c65661dd4add79fa0f28bd5"
 metafile = true
